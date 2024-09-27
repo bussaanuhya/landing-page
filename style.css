@@ -1,0 +1,325 @@
+body{
+    background-image: url("pngtree-blue-genetic-dna-medical-background-windbackground-display-boardbackgroundpsdcolorful-image_77077.jpg");
+    background-size: cover;
+}
+header{
+    text-align: justify;
+    color:rgb(157, 6, 6);
+    text-shadow:5px 5px rgb(246, 246, 245);
+    font-weight: bolder;
+    font-size: larger;
+    letter-spacing: 2px;
+    cursor: pointer;
+    border:2px;
+    margin-bottom: 10px;
+    margin-right: 1px;
+    margin-left: 10px;
+}
+.top-right-text{
+    position:absolute;
+    top:20px;
+    right:600px;
+    text-align:right;
+    align-items: flex-end;
+    padding: 0.1rem;
+}
+.top-right-text1{
+    position:absolute;
+    top:20px;
+    right:450px;
+    text-align:right;
+    align-items: flex-end;
+    padding: 0.1rem;
+}
+.top-right-text2{
+    position:absolute;
+    top:20px;
+    right:320px;
+    text-align:right;
+    align-items: flex-end;
+    padding: 0.1rem;
+}
+.top-right-text3{
+    position:absolute;
+    top:20px;
+    right:160px;
+    text-align:right;
+    align-items: flex-end;
+    padding: 0.1rem;
+}
+.top-right-text4{
+    position:absolute;
+    top:20px;
+    right:50px;
+    text-align:right;
+    align-items: flex-end;
+    padding: 0.1rem;
+}
+.text{
+    text-align:left;
+    color: rgb(0, 7, 1);
+    position: absolute;
+    text-decoration: underline;
+    font:bold;
+    font-style: larger;
+    left:50px;
+    top:100px;
+    gap:10rem;
+    padding: 0.2px;
+}
+p{
+    text-align:left;
+    font-family:cursive;
+    font-size: larger;
+    text-decoration: bisque;
+    color: rgb(16, 1, 6);
+    position: absolute;
+    left:50px;
+    top:150px;
+    gap:10rem;
+    padding: 0.2px;
+}
+.fa-solid.fa-house{
+    size: 0.1rem;
+    font-size: 15px;
+    align-items: flex-end;
+    position:absolute;
+    right:662px;
+    bottom: 655px;
+    color: black;
+}
+.fa-solid.fa-notes-medical{
+    size:0.1rem;
+    align-items:flex-end;
+    position: absolute;
+    right:265px;
+    bottom:655px;
+}
+div {
+    float:left;
+    position: absolute;
+    align-items: center;
+    bottom: 430px;
+    left:200px;
+    color:rgb(248, 248, 250);
+    background-color: blue;
+    padding:0.1rem;
+    font-size: medium;
+    cursor: pointer;
+    border-radius: 0.5rem;
+}
+.text5{
+    align-items: right;
+    position: absolute;
+    bottom: 450px;
+    text-decoration:underline;
+    right:180px;
+    font-size: larger;
+    letter-spacing: 1px;
+    font-weight: bolder;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    height:200px;
+    width:300px;
+    position: relative;;
+    padding: 1rem;
+    float: left;
+    left:40px;
+    top:200px;
+    border-radius: 3rem;
+    border-color: black;
+}
+h4{
+    text-align: right;
+    color:rgb(7, 6, 6);
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    float:right;
+    right:200px;
+    top:20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-shadow: 2px 2px white;
+}
+p1{
+    text-align: right;
+    position:relative;
+    float: right;
+    top:240px;
+    left:50px;
+    font-size: large;
+    font-weight: normal;
+}
+p2{
+    text-align: right;
+    position: relative;
+    float: right;
+    top:190px;
+    left:395px;
+    font-size: large;
+    font-weight:normal;
+}
+a {
+    text-align: right;
+    position:relative;
+    top:90px;
+    color:blue;
+    left:750px;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+form{
+    align-items: baseline;
+    position:absolute;
+    top: 600px;
+    right:500px;
+    height: 250px;
+    width:300px;
+    max-width: 550px;
+    margin: 0 auto;
+    padding: 80px;
+    border-radius: 2px;
+    background-color: rgb(245, 244, 242);
+    border-radius: 1rem;
+    float:bottom;
+    bottom:1rem;
+}
+label {
+    display: block;
+    margin-bottom: 1px;
+}
+input[type="text"],
+input[type="Email"],
+input[type="Mobile Number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 3px;
+    bottom:50px;
+}
+button{
+    position: relative;
+    border-radius: 0.4rem;
+    color:rgb(14, 14, 204);
+    background-color:darkgrey;
+    padding: 0.3rem;
+    left:90px;
+    top: 35px;
+    width: 150px;
+}
+.new{
+    text-align: center;
+    position: relative;
+    top: 410px;
+    left:300px;
+    text-decoration: underline;
+    font-size: 25px;
+}
+.my-container {
+    padding: 80px; 
+    text-align: center;
+    background-color: #f0f0f0; 
+    border: 2px solid #ddd;
+    position:relative;
+    top:900px;
+    left:0.1rem;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(18, 197, 197);
+    width:120px
+}
+.my-container1 {
+    padding: 80px;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border: 2px solid #ddd;
+    position:relative;
+    top:900px;
+    left:0.1rem;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(231, 234, 234);
+    width:120px
+}
+.my-container2 {
+    padding: 80px;
+    text-align: center;
+    background-color: #f0f0f0; 
+    border: 2px solid #ddd;
+    position:relative;
+    top:900px;
+    left:0.1rem;
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(18, 197, 197);
+    width:120px
+}
+h5{
+    position: relative;
+    top:1200px;
+    right:1100px;
+    font-size: larger;
+    font-weight: bold;
+}
+p3 {
+    position: relative;
+    top:1200px;
+    right:1100px;
+    font-size: larger;
+    text-decoration: dotted;
+    cursor: pointer;
+}
+p3::after {
+    content: "";
+    display: block;
+    border-top: 1px solid #000; 
+    margin-top: 10px; 
+}
+p4 {
+    position: relative;
+    top:990px;
+    left:400px;
+    font-size: larger;
+    text-decoration: dotted;
+    cursor: pointer;
+}
+p4::after {
+    content: "";
+    display: block;
+    border-top: 1px solid #000; 
+    margin-top: 10px; 
+}
+p5{
+    position: relative;
+    top:730px;
+    left:800px;
+    font-size: larger;
+    font-weight: bolder;
+}
+p6{
+    position: relative;
+    top:740px;
+    left:800px;
+    font-size: larger;
+    cursor: pointer;
+}
+p7{
+    position: relative;
+    top:525px;
+    font-weight: bold;
+    left:1200px;
+    font-size: larger;
+}
+p8{
+    position: relative;
+    top:530px;
+    left:1200px;
+    cursor:pointer;
+    font-size: large;
+}
